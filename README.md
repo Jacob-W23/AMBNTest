@@ -1,2 +1,2 @@
-# FirstInitialLastInitialBNTest
+# AMBNTest
 Our First Github project
